@@ -1,0 +1,10 @@
+19.0 pontiac-firebird
+18.0 ford-mustang
+23.0 mercury-capri-2000
+28.0 opel-1900
+30.0 peugeot-304
+31.0 toyota-corolla-1200
+35.0 datsun-1200
+27.0 volkswagen-model-111
+26.0 plymouth-cricket
+24.0 toyota-corona-hardtop
